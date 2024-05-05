@@ -1,4 +1,3 @@
-
 import {StyleSheet, Text, View, FlatList, TouchableOpacity} from 'react-native';
 import React from 'react';
 import IconMenu from '../component/IconMenu';
